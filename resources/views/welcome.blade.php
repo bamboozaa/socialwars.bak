@@ -3,37 +3,34 @@
 
 @section('content')
 <section>
-        <img src="{{ asset('images/230811_Web-SocialWar-01_A.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_A">
+    <img src="{{ asset('images/230811_Web-SocialWar-5-01.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_A">
 </section>
 <section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_B.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_B">
-</section>
-
-<section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_C.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_C">
-</section>
-
-<section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_D.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_D">
-</section>
-
-<section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_E.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_E">
+    <img src="{{ asset('images/230811_Web-SocialWar-5-02.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_B">
 </section>
 <section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_F.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_F">
+    <img src="{{ asset('images/230811_Web-SocialWar-5-03.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_C">
 </section>
-
 <section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_G.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_G">
+    <img src="{{ asset('images/230811_Web-SocialWar-5-04.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_D">
 </section>
-
 <section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_H.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_H">
+    <img src="{{ asset('images/230811_Web-SocialWar-5-05.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_E">
 </section>
-
 <section>
-    <img src="{{ asset('images/230811_Web-SocialWar-01_I.jpg') }}" class="img-fluid" alt="230811_Web-SocialWar-01_I">
+    <img src="{{ asset('images/230811_Web-SocialWar-5-06.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_F">
+</section>
+<section>
+    <img src="{{ asset('images/230811_Web-SocialWar-5-07.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_G">
+</section>
+<section>
+    <img src="{{ asset('images/230811_Web-SocialWar-5-08.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_H">
+</section>
+<section>
+    <img src="{{ asset('images/230811_Web-SocialWar-5-09.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_9">
+</section>
+<section>
+    <img src="{{ asset('images/230811_Web-SocialWar-5-10.png') }}" class="img-fluid" alt="230811_Web-SocialWar-01_10">
 </section>
 
 @endsection
