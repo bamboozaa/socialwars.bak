@@ -20,11 +20,12 @@
 </head>
 <body>
     <div id="app">
-
-        <main>
-            @yield('content')
-            @yield('footer')
-        </main>
+        <div class="container">
+            <main>
+                @yield('content')
+                @yield('footer')
+            </main>
+        </div>
     </div>
 </body>
 </html>
